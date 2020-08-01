@@ -1,0 +1,23 @@
+
+    body{
+    font-family: arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    }
+    canvas.lienzo{
+    display: block;
+    margin: 0 auto;
+    border: 1px solid black;
+    margin-bottom: 1em;
+ 
+    }
+    .texto_centrado{
+    text-align: center;
+    }
+    .actions{
+    width: 800px;
+    margin: 0 auto;
+    margin-bottom: 1em;
+    }
+  
+
